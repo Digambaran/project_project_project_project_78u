@@ -1,0 +1,12 @@
+{"level":"info","message":"Create called with ab and no type","service":"create"}
+{"level":"info","message":"changed name to ab","service":"create"}
+{"level":"info","message":"Prompted user for a type and got back 2","service":"create"}
+{"level":"info","message":"ab checked against registry and ab is finalized","service":"create"}
+{"level":"info","message":"Create called with ab and no type","service":"create"}
+{"level":"info","message":"changed name to ab","service":"create"}
+{"level":"info","message":"Prompted user for a type and got back 2","service":"create"}
+{"level":"info","message":"ab checked against registry and ab is finalized","service":"create"}
+{"level":"info","message":"Create called with ab and no type","service":"create"}
+{"level":"info","message":"changed name to ab","service":"create"}
+{"level":"info","message":"Prompted user for a type and got back 2","service":"create"}
+{"level":"info","message":"ab checked against registry and ab is finalized","service":"create"}

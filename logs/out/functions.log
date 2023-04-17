@@ -1,0 +1,24 @@
+function emulator started on port 5000
+url 
+requested_func 
+url addTodo
+requested_func addTodo
+handler =  [Module: null prototype] {
+  customPath: 'yes',
+  handler: [AsyncFunction: handler],
+  method: 'GET',
+  middlewares: [ [Function (anonymous)], [Function: jsonParser] ]
+}
+url listTodos
+requested_func listTodos
+handler =  [Module: null prototype] { handler: [Function: handler] }
+url favicon.ico
+requested_func favicon.ico
+url addTodo
+requested_func addTodo
+handler =  [Module: null prototype] {
+  customPath: 'yes',
+  handler: [AsyncFunction: handler],
+  method: 'GET',
+  middlewares: [ [Function (anonymous)], [Function: jsonParser] ]
+}

@@ -1,0 +1,7 @@
+Emulator error  TypeError: handler.default is not a function
+    at file:///home/neoito/Documents/Dev/Appblocks/tests/bb-cli/78u/._ab_em_/index.js:40:32
+Emulator error  TypeError: handler.default is not a function
+    at file:///home/neoito/Documents/Dev/Appblocks/tests/bb-cli/78u/._ab_em_/index.js:40:32
+Emulator error  TypeError: handler.default is not a function
+    at file:///home/neoito/Documents/Dev/Appblocks/tests/bb-cli/78u/._ab_em_/index.js:40:32
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

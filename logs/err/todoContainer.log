@@ -1,0 +1,5 @@
+<i> [webpack-dev-server] Project is running at:
+<i> [webpack-dev-server] Loopback: http://localhost:3000/
+<i> [webpack-dev-server] On Your Network (IPv4): http://192.168.1.9:3000/
+<i> [webpack-dev-server] On Your Network (IPv6): http://[fe80::8c55:6d0:54e2:a2f9]:3000/
+<i> [webpack-dev-server] Content not from webpack is served from '/home/neoito/Documents/Dev/Appblocks/tests/bb-cli/78u/todoContainer/dist' directory

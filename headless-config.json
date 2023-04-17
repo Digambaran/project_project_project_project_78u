@@ -1,0 +1,7 @@
+{
+	"appblockVersion": [
+		"1.0.0"
+	],
+	"gitTarget": "my git",
+	"gitVisibility": "PUBLIC"
+}
